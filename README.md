@@ -11,7 +11,7 @@ Todo written in react
 
 3) Launch the app: $ npm install
     
-Login: asdf@gmail.com, password
+Login:
 
 user1@gmail.com, password
 
