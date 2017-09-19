@@ -9,7 +9,7 @@ Todo written in react
 
 2) npm install
 
-3) Launch the app: $ npm install
+3) Launch the app: $ npm start
     
 Login:
 
